@@ -1,4 +1,10 @@
 dash==2.14.1
+Dash
+html
+dcc
+callback
+Output
+Input
 plotly
 pandas
 gunicorn
